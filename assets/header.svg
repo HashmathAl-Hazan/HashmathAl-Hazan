@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Hashmath Al-Hazan — software developer, full-stack development and applied AI">
+<title>Hashmath Al-Hazan — software developer, full-stack development and applied AI</title><defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08131d"/><stop offset=".6" stop-color="#10162c"/><stop offset="1" stop-color="#1b1238"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset=".55" stop-color="#6188ff"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<linearGradient id="top" x2="1" y2="1"><stop stop-color="#80f1fb"/><stop offset="1" stop-color="#6c7bff"/></linearGradient>
+<linearGradient id="left" x2="1" y2="1"><stop stop-color="#1b89ac"/><stop offset="1" stop-color="#154567"/></linearGradient>
+<linearGradient id="right" x2="1" y2="1"><stop stop-color="#715bdf"/><stop offset="1" stop-color="#332657"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9bc4ef" stroke-opacity=".06"/></pattern>
+</defs>
+<style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,DejaVu Sans Mono,monospace}@media(prefers-reduced-motion:reduce){.motion{animation:none!important}}</style>
+
+<rect x="2" y="2" width="1196" height="336" rx="24" fill="url(#bg)"/>
+<rect x="2" y="2" width="1196" height="336" rx="24" fill="url(#grid)"/>
+<rect x="2" y="2" width="1196" height="336" rx="24" fill="none" stroke="url(#accent)" stroke-opacity=".65"/>
+<path d="M26 75V26H75M1125 26H1174V75M26 265V314H75M1125 314H1174V265" fill="none" stroke="url(#accent)" stroke-width="2"/>
+<circle cx="65" cy="60" r="5" fill="#67e8c3"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
+<text x="82" y="66" fill="#8fa6bf" font-size="15" letter-spacing="3">TITUS / DEVELOPER &amp; BUILDER</text>
+<text x="60" y="138" fill="#f1f5ff" font-size="62" font-weight="750">Hashmath</text>
+<text x="60" y="205" fill="url(#accent)" font-size="62" font-weight="750">Al-Hazan</text>
+<text x="63" y="251" fill="#ccd5e8" font-size="19" letter-spacing="1">SOFTWARE · FULL-STACK · APPLIED AI</text>
+<text x="63" y="285" fill="#8495b1" font-size="15">Thoughtful interfaces. Useful software. Curious experiments.</text>
+<ellipse cx="947" cy="204" rx="165" ry="55" fill="none" stroke="#5372a4" stroke-opacity=".5" transform="rotate(-15 947 204)"/>
+<ellipse cx="947" cy="204" rx="126" ry="42" fill="none" stroke="#8b6fcd" stroke-opacity=".45" transform="rotate(27 947 204)"/>
+<circle cx="782" cy="204" r="5" fill="#67e8f9"><animateMotion dur="12s" repeatCount="indefinite" path="M0 0 A165 55 0 1 0 330 0 A165 55 0 1 0 0 0"/></circle>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="5s" repeatCount="indefinite"/>
+<polygon points="947,82 1035,133 947,184 859,133" fill="url(#top)" stroke="#a5efff" stroke-width="1.5"/>
+<polygon points="859,133 947,184 947,282 859,231" fill="url(#left)" stroke="#66d4e9" stroke-opacity=".7"/>
+<polygon points="947,184 1035,133 1035,231 947,282" fill="url(#right)" stroke="#b1a0ff" stroke-opacity=".7"/>
+<path d="M903 108L991 159M991 108L903 159M903 159V256M991 159V256M859 182L947 233L1035 182" fill="none" stroke="#e5f4ff" stroke-opacity=".2"/>
+<text x="947" y="143" text-anchor="middle" font-size="34" fill="#0c2448" font-weight="700">&lt;/&gt;</text>
+<text x="985" y="222" text-anchor="middle" font-size="27" fill="#e2dcff" font-weight="700">AI</text>
+</g>
+<circle cx="1090" cy="97" r="5" fill="#c4a0ff"/><circle cx="816" cy="107" r="3" fill="#67e8f9"/>
+<text x="947" y="315" text-anchor="middle" fill="#859bbd" font-size="12" letter-spacing="3">CODE × INTELLIGENCE</text>
+</svg>

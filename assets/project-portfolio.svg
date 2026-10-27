@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="260" viewBox="0 0 540 260" role="img" aria-label="Web Portfolio — FRONTEND / PERSONAL">
+<title>Web Portfolio — FRONTEND / PERSONAL</title><defs></defs>
+<style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,DejaVu Sans Mono,monospace}@media(prefers-reduced-motion:reduce){.motion{animation:none!important}}</style>
+<rect x="1" y="1" width="538" height="258" rx="20" fill="#0d1729" stroke="#2c3b59"/><rect x="1" y="1" width="538" height="5" rx="3" fill="#6ee7b7"/>
+    <text x="28" y="39" fill="#6ee7b7" font-size="12" font-weight="600" letter-spacing="2">FRONTEND / PERSONAL</text>
+    <text x="28" y="84" fill="#f1f5ff" font-size="29" font-weight="700">Web Portfolio</text>
+    <text x="28" y="126" fill="#aab9d1" font-size="16">A home for my development work.</text><text x="28" y="151" fill="#aab9d1" font-size="16">Projects, interfaces and ways to connect.</text>
+    <text x="28" y="197" fill="#6ee7b7" font-size="13" class="mono">HTML · CSS · JavaScript</text>
+    <path d="M28 216H512" stroke="#26354f"/><text x="28" y="242" fill="#dbeafe" font-size="13">EXPLORE PROJECT ↗</text>
+    <text x="507" y="242" text-anchor="end" fill="#6f83a5" font-size="13" class="mono">04</text><rect x="429" y="43" width="76" height="55" rx="7" fill="none" stroke="#6ee7b7" stroke-width="2"/><path d="M429 57H505M452 69L443 77L452 85M482 69L491 77L482 85M472 65L463 89" fill="none" stroke="#6ee7b7" stroke-width="2"/></svg>

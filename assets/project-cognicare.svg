@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="260" viewBox="0 0 540 260" role="img" aria-label="CogniCare — SPEECH AI / RESEARCH">
+<title>CogniCare — SPEECH AI / RESEARCH</title><defs></defs>
+<style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,DejaVu Sans Mono,monospace}@media(prefers-reduced-motion:reduce){.motion{animation:none!important}}</style>
+<rect x="1" y="1" width="538" height="258" rx="20" fill="#0d1729" stroke="#2c3b59"/><rect x="1" y="1" width="538" height="5" rx="3" fill="#67e8f9"/>
+    <text x="28" y="39" fill="#67e8f9" font-size="12" font-weight="600" letter-spacing="2">SPEECH AI / RESEARCH</text>
+    <text x="28" y="84" fill="#f1f5ff" font-size="29" font-weight="700">CogniCare</text>
+    <text x="28" y="126" fill="#aab9d1" font-size="16">Speech-based cognitive screening.</text><text x="28" y="151" fill="#aab9d1" font-size="16">My focus: the speech analysis component.</text>
+    <text x="28" y="197" fill="#67e8f9" font-size="13" class="mono">Python · Wav2Vec2 · Speech features</text>
+    <path d="M28 216H512" stroke="#26354f"/><text x="28" y="242" fill="#dbeafe" font-size="13">EXPLORE PROJECT ↗</text>
+    <text x="507" y="242" text-anchor="end" fill="#6f83a5" font-size="13" class="mono">01</text><path d="M403 67H415L422 45L431 90L441 35L451 80L461 56L468 67H507" fill="none" stroke="#67e8f9" stroke-width="3"/></svg>

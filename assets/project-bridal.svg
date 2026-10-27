@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="260" viewBox="0 0 540 260" role="img" aria-label="Bridal Vision Studio — E-COMMERCE / TEAM PROJECT">
+<title>Bridal Vision Studio — E-COMMERCE / TEAM PROJECT</title><defs></defs>
+<style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,DejaVu Sans Mono,monospace}@media(prefers-reduced-motion:reduce){.motion{animation:none!important}}</style>
+<rect x="1" y="1" width="538" height="258" rx="20" fill="#0d1729" stroke="#2c3b59"/><rect x="1" y="1" width="538" height="5" rx="3" fill="#f0abfc"/>
+    <text x="28" y="39" fill="#f0abfc" font-size="12" font-weight="600" letter-spacing="2">E-COMMERCE / TEAM PROJECT</text>
+    <text x="28" y="84" fill="#f1f5ff" font-size="29" font-weight="700">Bridal Vision Studio</text>
+    <text x="28" y="126" fill="#aab9d1" font-size="16">An online bridal shopping experience.</text><text x="28" y="151" fill="#aab9d1" font-size="16">Personalisation and virtual try-on features.</text>
+    <text x="28" y="197" fill="#f0abfc" font-size="13" class="mono">React · Node.js · Express · MongoDB</text>
+    <path d="M28 216H512" stroke="#26354f"/><text x="28" y="242" fill="#dbeafe" font-size="13">EXPLORE PROJECT ↗</text>
+    <text x="507" y="242" text-anchor="end" fill="#6f83a5" font-size="13" class="mono">03</text><path d="M451 46H485L505 64L468 102L431 64Z M431 64H505M451 46L449 64L468 102L486 64L485 46" fill="none" stroke="#f0abfc" stroke-width="2.5"/></svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="58" viewBox="0 0 1000 58" role="img" aria-label="Building for the web. Exploring intelligence.">
+<title>Building for the web. Exploring intelligence.</title><defs><clipPath id="typing"><rect x="200" y="0" width="600" height="58"><animate attributeName="width" values="0;600;600;0;0" keyTimes="0;.43;.8;.95;1" dur="8s" repeatCount="indefinite"/></rect></clipPath></defs>
+<style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,DejaVu Sans Mono,monospace}@media(prefers-reduced-motion:reduce){.motion{animation:none!important}}</style>
+
+<text x="500" y="36" text-anchor="middle" fill="#8294b2" font-size="21" class="mono">Building for the web. Exploring intelligence.</text>
+<g clip-path="url(#typing)"><text x="500" y="36" text-anchor="middle" fill="#38bdf8" font-size="21" class="mono">Building for the web. Exploring intelligence.</text></g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Let&#x27;s build something useful. Always learning. Always building.">
+<title>Let&#x27;s build something useful. Always learning. Always building.</title><defs></defs>
+<style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,DejaVu Sans Mono,monospace}@media(prefers-reduced-motion:reduce){.motion{animation:none!important}}</style>
+
+<path d="M20 15H1180" stroke="#253451"/>
+<circle cx="20" cy="15" r="3" fill="#67e8f9"><animateMotion dur="10s" repeatCount="indefinite" path="M0 0H1160"/></circle>
+<text x="600" y="65" text-anchor="middle" fill="#d6e6ff" font-size="23" font-weight="650" letter-spacing="2">LET'S BUILD SOMETHING USEFUL.</text>
+<text x="600" y="96" text-anchor="middle" fill="#8294b2" font-size="16">Always learning. Always building.</text>
+</svg>
