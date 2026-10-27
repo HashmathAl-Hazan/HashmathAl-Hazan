@@ -14,10 +14,10 @@
 <rect x="2" y="2" width="1196" height="336" rx="24" fill="none" stroke="url(#accent)" stroke-opacity=".65"/>
 <path d="M26 75V26H75M1125 26H1174V75M26 265V314H75M1125 314H1174V265" fill="none" stroke="url(#accent)" stroke-width="2"/>
 <circle cx="65" cy="60" r="5" fill="#67e8c3"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
-<text x="82" y="66" fill="#8fa6bf" font-size="15" letter-spacing="3">TITUS / DEVELOPER &amp; BUILDER</text>
+<text x="82" y="66" fill="#8fa6bf" font-size="15" letter-spacing="3">ENGINEER / DEVELOPER &amp; BUILDER</text>
 <text x="60" y="138" fill="#f1f5ff" font-size="62" font-weight="750">Hashmath</text>
 <text x="60" y="205" fill="url(#accent)" font-size="62" font-weight="750">Al-Hazan</text>
-<text x="63" y="251" fill="#ccd5e8" font-size="19" letter-spacing="1">SOFTWARE · FULL-STACK · APPLIED AI</text>
+<text x="63" y="251" fill="#ccd5e8" font-size="19" letter-spacing="1">SOFTWARE · FULL-STACK · AI/ML</text>
 <text x="63" y="285" fill="#8495b1" font-size="15">Thoughtful interfaces. Useful software. Curious experiments.</text>
 <ellipse cx="947" cy="204" rx="165" ry="55" fill="none" stroke="#5372a4" stroke-opacity=".5" transform="rotate(-15 947 204)"/>
 <ellipse cx="947" cy="204" rx="126" ry="42" fill="none" stroke="#8b6fcd" stroke-opacity=".45" transform="rotate(27 947 204)"/>
