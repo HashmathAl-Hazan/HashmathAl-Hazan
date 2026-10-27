@@ -132,8 +132,3 @@
     <img src="./assets/footer.svg" width="100%" alt="Let's build something useful. Always learning. Always building." />
   </a>
 </p>
-
-<details>
-  <summary>Design credits</summary>
-  <p>Technology icons: <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> (MIT; licence included in assets/icons). GitHub cards: <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a>. Decorative motion is implemented with SVG; the cube is a 3D-style illustration.</p>
-</details>
