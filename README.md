@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Software Developer · Full-Stack Development · Applied AI</b><br />
+  <b>Software Developer · Full-Stack Development · AI/ML</b><br />
   <sub>Sri Lanka 🇱🇰 &nbsp; / &nbsp; You can call me Titus.</sub>
 </p>
 
@@ -30,7 +30,7 @@
       <p>👋 <b>Hi, I'm Hashmath — call me Titus.</b></p>
       <p>🎓 Software Engineering graduate from <b>SLIIT</b>.</p>
       <p>💻 I build with <b>React, Next.js and TypeScript</b>.</p>
-      <p>🧠 Exploring <b>applied AI, machine learning and speech processing</b>.</p>
+      <p>🧠 Exploring <b>AI, machine learning and speech processing</b>.</p>
       <p>🔬 Speech analysis contributor to <b>CogniCare</b>, with research presented at <b>IEEE TENSYMP 2026</b>.</p>
       <p>💬 Ask me about <b>frontend development, MERN and API integration</b>.</p>
       <p>📫 <a href="mailto:hashmathalhazan@gmail.com">hashmathalhazan@gmail.com</a></p>
@@ -67,9 +67,6 @@
 <p align="center">
   <img src="./assets/icons/Python-Dark.svg" width="46" height="46" alt="Python" />
 </p>
-<p align="center">
-  <code>Wav2Vec2</code> &nbsp; <code>Speech-to-text</code> &nbsp; <code>Acoustic features</code> &nbsp; <code>Transcript analysis</code>
-</p>
 
 <p align="center"><b>Tools &amp; collaboration</b></p>
 <p align="center">
@@ -83,7 +80,6 @@
 ---
 
 <h2 align="center">Things I've been building</h2>
-<p align="center">A mix of web development, practical tools and applied AI research.</p>
 
 <table>
   <tr>
