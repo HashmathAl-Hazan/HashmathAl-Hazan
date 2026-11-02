@@ -29,8 +29,8 @@
 <polygon points="947,184 1035,133 1035,231 947,282" fill="url(#right)" stroke="#b1a0ff" stroke-opacity=".7"/>
 <path d="M903 108L991 159M991 108L903 159M903 159V256M991 159V256M859 182L947 233L1035 182" fill="none" stroke="#e5f4ff" stroke-opacity=".2"/>
 <text x="947" y="143" text-anchor="middle" font-size="34" fill="#0c2448" font-weight="700">&lt;/&gt;</text>
-<text x="907" y="222" text-anchor="middle" font-size="27" fill="#e2dcff" font-weight="700">AI</text>
-<text x="985" y="222" text-anchor="middle" font-size="27" fill="#e2dcff" font-weight="700">ML</text>
+<text x="905" y="222" text-anchor="middle" font-size="27" fill="#e2dcff" font-weight="700">AI</text>
+<text x="987" y="222" text-anchor="middle" font-size="27" fill="#e2dcff" font-weight="700">ML</text>
 </g>
 <circle cx="1090" cy="97" r="5" fill="#c4a0ff"/><circle cx="816" cy="107" r="3" fill="#67e8f9"/>
 <text x="947" y="315" text-anchor="middle" fill="#859bbd" font-size="12" letter-spacing="3">CODE × INTELLIGENCE</text>
